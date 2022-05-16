@@ -13,3 +13,5 @@ If interested, please cite:
   year = {2022}
 }
 ```
+
+Some of our code are modified from facebook's GENRE work.

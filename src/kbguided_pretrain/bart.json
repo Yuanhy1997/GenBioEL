@@ -1,0 +1,36 @@
+{
+    "name": "kbguided_pretrain_forED",
+    "bart_token_file": "facebook/bart-large",
+    "bart_model_file": "facebook/bart-large",
+    "data": {
+        "flags": {
+            "pretrain_dataset": true,
+            "pretrain_type": "PubMed abstract pretrain"
+        },
+        "mixed_seq_datasets": {
+            "1024": {
+                "pubmed_pretrain_dataset": "tokenized_data"
+            }
+        }
+    },
+    "mixed_seq_training": {
+        "1024": {
+            "num_epochs": 40000,
+            "warmup_proportion": 0.02,
+            "total_training_steps": 80000, 
+            "learning_rate": 4e-5,
+            "num_workers": 0,
+            "async_worker": true,
+            "decay_rate": 0.90,
+            "decay_step": 150
+        }
+    },
+    "validation": {
+        "path": "validation_set/"
+    },
+    "comment": {
+        "mixed_seq_training_comment1": "decay_rate and decat_step are for exponential warmup and decay, num_workers is of no use when async_worker is set",
+        "mixed_seq_training_comment2": "num_epochs have to contain more updating steps than total_trainng_steps, warmup steps = warmup_proportion * total_trainng_steps"
+
+    }
+}
