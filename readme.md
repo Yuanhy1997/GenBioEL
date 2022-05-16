@@ -1,6 +1,7 @@
-This repository is for our NAACL 2022 work:  
+This repository is for our \textit{NAACL 2022} work: 
+
 Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning  
-The source code will be uploaded very soon.
+
 
 If interested, please cite:
 ```
