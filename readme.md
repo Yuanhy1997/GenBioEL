@@ -1,6 +1,6 @@
 This repository is for our **NAACL 2022** work: 
 
-*Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning*
+[*Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning*](https://arxiv.org/abs/2204.05164)
 
 
 If interested, please cite:
