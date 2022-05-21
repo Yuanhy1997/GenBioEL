@@ -4,12 +4,14 @@
 
 The python package required are as listed below, deepspeed is used for pretraining, if you only want to finetune on downstream tasks, please omit this one. For other omitted requirements, any compatible ones will do. 
 
-|deepspeed | 0.5.4 |
-|nltk  | 3.6.5 |
-|numpy | 1.19.5 |
-|scipy | 1.5.4 |
-|torch | 1.9.1+cu111 |
-|transformers | 4.11.3 |
+|pkgs|version|
+| --- | --- |
+|deepspeed  |0.5.4|
+|nltk | 3.6.5|
+|numpy   | 1.19.5|
+|scipy   | 1.5.4|
+|torch   | 1.9.1+cu111|
+|transformers  | 4.11.3|
 
 ## finetuning
 
