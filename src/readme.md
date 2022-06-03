@@ -13,6 +13,14 @@ The python package required are as listed below, deepspeed is used for pretraini
 |torch   | 1.9.1+cu111|
 |transformers  | 4.11.3|
 
+For installing fairseq
+
+'''bash
+git clone https://github.com/pytorch/fairseq
+cd fairseq
+pip install --editable ./
+'''
+
 ## finetuning
 
 For the benchmarks listed in our paper:
