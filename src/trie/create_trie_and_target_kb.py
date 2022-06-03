@@ -3,6 +3,7 @@ import sys
 import numpy as np
 from tqdm import tqdm
 import pickle
+import json
 import argparse
 import pickle
 import pandas as pd
@@ -11,8 +12,8 @@ from trie import Trie
 
 tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
 
-with open('../benchmark/bc5cdr/target_kb.json', 'rb') as f:
-    cui2str = pickle.load(f)
+with open('../benchmark/bc5cdr/target_kb.json', 'r') as f:
+    cui2str = json.load(f)
 
 entities = []
 for cui in cui2str:
