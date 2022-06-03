@@ -15,6 +15,8 @@ The python package required are as listed below, deepspeed is used for pretraini
 
 ## finetuning
 
+For the benchmarks listed in our paper:
+
 1. Please put the preprocessed dataset under this directory, the code for data preprocessing is provided in ./data_utils/
 2. Before run the bash files, please create the prefix tree for decoding first
    1. cd ./trie
@@ -22,6 +24,20 @@ The python package required are as listed below, deepspeed is used for pretraini
    3. run the python file python3 create_trie_and_target_kb.py
    4. cd ..
 3. run the bash file to finetune and test on different benchmarks
+
+For your own dataset:
+
+For training data as example, you should preapare two files *train.source* and *train.target*. 
+In the .source file, each line is a json dumped list and contains one element which is your input text with mentions markedl
+In the .target file, each line is also a josn dumped list and contains two element where the first one is *the mention is* prefix and the second is the target entity.
+
+Here is an example, for the same line is both files:
+
+.source: ['Ocular manifestations of START juvenile rheumatoid arthritis END.']
+
+.target: ['juvenile rheumatoid arthritis is ', ' juvenile rheumatoid arthritis']
+
+For the construction of trie, if using prefix prompt tokens, please set the root of the trie as *16*, which is the token id of * is*; if not set the root as *2*, which is the decoder bos token of BART.
 
 # pretraining
 
