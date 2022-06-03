@@ -15,11 +15,11 @@ The python package required are as listed below, deepspeed is used for pretraini
 
 For installing fairseq
 
-'''bash
+```bash
 git clone https://github.com/pytorch/fairseq
 cd fairseq
 pip install --editable ./
-'''
+```
 
 ## finetuning
 
