@@ -1,0 +1,128 @@
+Class ID,Preferred Label,Synonyms,Definitions,Obsolete,CUI,Semantic Types,Parents
+http://purl.bioontology.org/ontology/STY/T057,Occupational Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T052
+http://purl.bioontology.org/ontology/STY/T047,Disease or Syndrome,,,false,,,http://purl.bioontology.org/ontology/STY/T046
+http://purl.bioontology.org/ontology/STY/T167,Substance,,,false,,,http://purl.bioontology.org/ontology/STY/T072
+http://purl.bioontology.org/ontology/STY/T066,Machine Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T052
+http://purl.bioontology.org/ontology/STY/T184,Sign or Symptom,,,false,,,http://purl.bioontology.org/ontology/STY/T033
+http://purl.bioontology.org/ontology/STY/T103,Chemical,,,false,,,http://purl.bioontology.org/ontology/STY/T167
+http://purl.bioontology.org/ontology/STY/T026,Cell Component,,,false,,,http://purl.bioontology.org/ontology/STY/T021
+http://purl.bioontology.org/ontology/STY/T002,Plant,,,false,,,http://purl.bioontology.org/ontology/STY/T204
+http://purl.bioontology.org/ontology/STY/T077,Conceptual Entity,,,false,,,http://purl.bioontology.org/ontology/STY/T071
+http://purl.bioontology.org/ontology/STY/T067,Phenomenon or Process,,,false,,,http://purl.bioontology.org/ontology/STY/T051
+http://purl.bioontology.org/ontology/STY/T005,Virus,,,false,,,http://purl.bioontology.org/ontology/STY/T001
+http://purl.bioontology.org/ontology/STY/T013,Fish,,,false,,,http://purl.bioontology.org/ontology/STY/T010
+http://purl.bioontology.org/ontology/STY/T123,Biologically Active Substance,,,false,,,http://purl.bioontology.org/ontology/STY/T120
+http://purl.bioontology.org/ontology/STY/T203,Drug Delivery Device,,,false,,,http://purl.bioontology.org/ontology/STY/T074
+http://purl.bioontology.org/ontology/STY/T088,Carbohydrate Sequence,,,false,,,http://purl.bioontology.org/ontology/STY/T085
+http://purl.bioontology.org/ontology/STY/T016,Human,,,false,,,http://purl.bioontology.org/ontology/STY/T015
+http://purl.bioontology.org/ontology/STY/T126,Enzyme,,,false,,,http://purl.bioontology.org/ontology/STY/T123
+http://purl.bioontology.org/ontology/STY/T046,Pathologic Function,,,false,,,http://purl.bioontology.org/ontology/STY/T038
+http://purl.bioontology.org/ontology/STY/T116,"Amino Acid, Peptide, or Protein",,,false,,,http://purl.bioontology.org/ontology/STY/T109
+http://purl.bioontology.org/ontology/STY/T098,Population Group,,,false,,,http://purl.bioontology.org/ontology/STY/T096
+http://purl.bioontology.org/ontology/STY/T017,Anatomical Structure,,,false,,,http://purl.bioontology.org/ontology/STY/T072
+http://purl.bioontology.org/ontology/STY/T127,Vitamin,,,false,,,http://purl.bioontology.org/ontology/STY/T123
+http://purl.bioontology.org/ontology/STY/T195,Antibiotic,,,false,,,http://purl.bioontology.org/ontology/STY/T121
+http://purl.bioontology.org/ontology/STY/T037,Injury or Poisoning,,,false,,,http://purl.bioontology.org/ontology/STY/T067
+http://purl.bioontology.org/ontology/STY/T200,Clinical Drug,,,false,,,http://purl.bioontology.org/ontology/STY/T073
+http://purl.bioontology.org/ontology/STY/T007,Bacterium,,,false,,,http://purl.bioontology.org/ontology/STY/T001
+http://purl.bioontology.org/ontology/STY/T168,Food,,,false,,,http://purl.bioontology.org/ontology/STY/T167
+http://purl.bioontology.org/ontology/STY/T058,Health Care Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T057
+http://purl.bioontology.org/ontology/STY/T104,Chemical Viewed Structurally,,,false,,,http://purl.bioontology.org/ontology/STY/T103
+http://purl.bioontology.org/ontology/STY/T185,Classification,,,false,,,http://purl.bioontology.org/ontology/STY/T170
+http://purl.bioontology.org/ontology/STY/T078,Idea or Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T196,"Element, Ion, or Isotope",,,false,,,http://purl.bioontology.org/ontology/STY/T104
+http://purl.bioontology.org/ontology/STY/T190,Anatomical Abnormality,,,false,,,http://purl.bioontology.org/ontology/STY/T017
+http://purl.bioontology.org/ontology/STY/T048,Mental or Behavioral Dysfunction,,,false,,,http://purl.bioontology.org/ontology/STY/T047
+http://purl.bioontology.org/ontology/STY/T038,Biologic Function,,,false,,,http://purl.bioontology.org/ontology/STY/T070
+http://purl.bioontology.org/ontology/STY/T080,Qualitative Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T078
+http://purl.bioontology.org/ontology/STY/T201,Clinical Attribute,,,false,,,http://purl.bioontology.org/ontology/STY/T032
+http://purl.bioontology.org/ontology/STY/T089,Regulation or Law,,,false,,,http://purl.bioontology.org/ontology/STY/T170
+http://purl.bioontology.org/ontology/STY/T204,Eukaryote,,,false,,,http://purl.bioontology.org/ontology/STY/T001
+http://purl.bioontology.org/ontology/STY/T068,Human-caused Phenomenon or Process,,,false,,,http://purl.bioontology.org/ontology/STY/T067
+http://purl.bioontology.org/ontology/STY/T114,"Nucleic Acid, Nucleoside, or Nucleotide",,,false,,,http://purl.bioontology.org/ontology/STY/T109
+http://purl.bioontology.org/ontology/STY/T079,Temporal Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T078
+http://purl.bioontology.org/ontology/STY/T090,Occupation or Discipline,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T125,Hormone,,,false,,,http://purl.bioontology.org/ontology/STY/T123
+http://purl.bioontology.org/ontology/STY/T028,Gene or Genome,,,false,,,http://purl.bioontology.org/ontology/STY/T021
+http://purl.bioontology.org/ontology/STY/T099,Family Group,,,false,,,http://purl.bioontology.org/ontology/STY/T096
+http://purl.bioontology.org/ontology/STY/T018,Embryonic Structure,,,false,,,http://purl.bioontology.org/ontology/STY/T017
+http://purl.bioontology.org/ontology/STY/T050,Experimental Model of Disease,,,false,,,http://purl.bioontology.org/ontology/STY/T046
+http://purl.bioontology.org/ontology/STY/T008,Animal,,,false,,,http://purl.bioontology.org/ontology/STY/T204
+http://purl.bioontology.org/ontology/STY/T059,Laboratory Procedure,,,false,,,http://purl.bioontology.org/ontology/STY/T058
+http://purl.bioontology.org/ontology/STY/T169,Functional Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T078
+http://purl.bioontology.org/ontology/STY/T070,Natural Phenomenon or Process,,,false,,,http://purl.bioontology.org/ontology/STY/T067
+http://purl.bioontology.org/ontology/STY/T040,Organism Function,,,false,,,http://purl.bioontology.org/ontology/STY/T039
+http://purl.bioontology.org/ontology/STY/T049,Cell or Molecular Dysfunction,,,false,,,http://purl.bioontology.org/ontology/STY/T046
+http://purl.bioontology.org/ontology/STY/T081,Quantitative Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T078
+http://purl.bioontology.org/ontology/STY/T060,Diagnostic Procedure,,,false,,,http://purl.bioontology.org/ontology/STY/T058
+http://purl.bioontology.org/ontology/STY/T170,Intellectual Product,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T069,Environmental Effect of Humans,,,false,,,http://purl.bioontology.org/ontology/STY/T068
+http://purl.bioontology.org/ontology/STY/T071,Entity,,,false,,,http://www.w3.org/2002/07/owl#Thing
+http://purl.bioontology.org/ontology/STY/T039,Physiologic Function,,,false,,,http://purl.bioontology.org/ontology/STY/T038
+http://purl.bioontology.org/ontology/STY/T191,Neoplastic Process,,,false,,,http://purl.bioontology.org/ontology/STY/T047
+http://purl.bioontology.org/ontology/STY/T074,Medical Device,,,false,,,http://purl.bioontology.org/ontology/STY/T073
+http://purl.bioontology.org/ontology/STY/T130,"Indicator, Reagent, or Diagnostic Aid",,,false,,,http://purl.bioontology.org/ontology/STY/T120
+http://purl.bioontology.org/ontology/STY/T091,Biomedical Occupation or Discipline,,,false,,,http://purl.bioontology.org/ontology/STY/T090
+http://purl.bioontology.org/ontology/STY/T020,Acquired Abnormality,,,false,,,http://purl.bioontology.org/ontology/STY/T190
+http://purl.bioontology.org/ontology/STY/T010,Vertebrate,,,false,,,http://purl.bioontology.org/ontology/STY/T008
+http://purl.bioontology.org/ontology/STY/T094,Professional Society,,,false,,,http://purl.bioontology.org/ontology/STY/T092
+http://purl.bioontology.org/ontology/STY/T029,Body Location or Region,,,false,,,http://purl.bioontology.org/ontology/STY/T082
+http://purl.bioontology.org/ontology/STY/T109,Organic Chemical,,,false,,,http://purl.bioontology.org/ontology/STY/T104
+http://purl.bioontology.org/ontology/STY/T064,Governmental or Regulatory Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T057
+http://purl.bioontology.org/ontology/STY/T120,Chemical Viewed Functionally,,,false,,,http://purl.bioontology.org/ontology/STY/T103
+http://purl.bioontology.org/ontology/STY/T019,Congenital Abnormality,,,false,,,http://purl.bioontology.org/ontology/STY/T190
+http://purl.bioontology.org/ontology/STY/T051,Event,,,false,,,http://www.w3.org/2002/07/owl#Thing
+http://purl.bioontology.org/ontology/STY/T129,Immunologic Factor,,,false,,,http://purl.bioontology.org/ontology/STY/T123
+http://purl.bioontology.org/ontology/STY/T030,Body Space or Junction,,,false,,,http://purl.bioontology.org/ontology/STY/T082
+http://purl.bioontology.org/ontology/STY/T054,Social Behavior,,,false,,,http://purl.bioontology.org/ontology/STY/T053
+http://purl.bioontology.org/ontology/STY/T024,Tissue,,,false,,,http://purl.bioontology.org/ontology/STY/T021
+http://purl.bioontology.org/ontology/STY/T041,Mental Process,,,false,,,http://purl.bioontology.org/ontology/STY/T040
+http://purl.bioontology.org/ontology/STY/T044,Molecular Function,,,false,,,http://purl.bioontology.org/ontology/STY/T039
+http://purl.bioontology.org/ontology/STY/T061,Therapeutic or Preventive Procedure,,,false,,,http://purl.bioontology.org/ontology/STY/T058
+http://purl.bioontology.org/ontology/STY/T171,Language,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T100,Age Group,,,false,,,http://purl.bioontology.org/ontology/STY/T096
+http://purl.bioontology.org/ontology/STY/T031,Body Substance,,,false,,,http://purl.bioontology.org/ontology/STY/T167
+http://purl.bioontology.org/ontology/STY/T082,Spatial Concept,,,false,,,http://purl.bioontology.org/ontology/STY/T078
+http://purl.bioontology.org/ontology/STY/T072,Physical Object,,,false,,,http://purl.bioontology.org/ontology/STY/T071
+http://purl.bioontology.org/ontology/STY/T034,Laboratory or Test Result,,,false,,,http://purl.bioontology.org/ontology/STY/T033
+http://purl.bioontology.org/ontology/STY/T192,Receptor,,,false,,,http://purl.bioontology.org/ontology/STY/T123
+http://purl.bioontology.org/ontology/STY/T085,Molecular Sequence,,,false,,,http://purl.bioontology.org/ontology/STY/T082
+http://purl.bioontology.org/ontology/STY/T021,Fully Formed Anatomical Structure,,,false,,,http://purl.bioontology.org/ontology/STY/T017
+http://purl.bioontology.org/ontology/STY/T131,Hazardous or Poisonous Substance,,,false,,,http://purl.bioontology.org/ontology/STY/T120
+http://purl.bioontology.org/ontology/STY/T101,Patient or Disabled Group,,,false,,,http://purl.bioontology.org/ontology/STY/T096
+http://purl.bioontology.org/ontology/STY/T062,Research Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T057
+http://purl.bioontology.org/ontology/STY/T075,Research Device,,,false,,,http://purl.bioontology.org/ontology/STY/T073
+http://purl.bioontology.org/ontology/STY/T065,Educational Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T057
+http://purl.bioontology.org/ontology/STY/T073,Manufactured Object,,,false,,,http://purl.bioontology.org/ontology/STY/T072
+http://purl.bioontology.org/ontology/STY/T083,Geographic Area,,,false,,,http://purl.bioontology.org/ontology/STY/T082
+http://purl.bioontology.org/ontology/STY/T011,Amphibian,,,false,,,http://purl.bioontology.org/ontology/STY/T010
+http://purl.bioontology.org/ontology/STY/T001,Organism,,,false,,,http://purl.bioontology.org/ontology/STY/T072
+http://purl.bioontology.org/ontology/STY/T121,Pharmacologic Substance,,,false,,,http://purl.bioontology.org/ontology/STY/T120
+http://purl.bioontology.org/ontology/STY/T092,Organization,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T093,Health Care Related Organization,,,false,,,http://purl.bioontology.org/ontology/STY/T092
+http://purl.bioontology.org/ontology/STY/T052,Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T051
+http://purl.bioontology.org/ontology/STY/T095,Self-help or Relief Organization,,,false,,,http://purl.bioontology.org/ontology/STY/T092
+http://purl.bioontology.org/ontology/STY/T014,Reptile,,,false,,,http://purl.bioontology.org/ontology/STY/T010
+http://purl.bioontology.org/ontology/STY/T022,Body System,,,false,,,http://purl.bioontology.org/ontology/STY/T169
+http://purl.bioontology.org/ontology/STY/T063,Molecular Biology Research Technique,,,false,,,http://purl.bioontology.org/ontology/STY/T062
+http://purl.bioontology.org/ontology/STY/T025,Cell,,,false,,,http://purl.bioontology.org/ontology/STY/T021
+http://purl.bioontology.org/ontology/STY/T042,Organ or Tissue Function,,,false,,,http://purl.bioontology.org/ontology/STY/T039
+http://purl.bioontology.org/ontology/STY/T004,Fungus,,,false,,,http://purl.bioontology.org/ontology/STY/T204
+http://purl.bioontology.org/ontology/STY/T045,Genetic Function,,,false,,,http://purl.bioontology.org/ontology/STY/T044
+http://purl.bioontology.org/ontology/STY/T053,Behavior,,,false,,,http://purl.bioontology.org/ontology/STY/T052
+http://purl.bioontology.org/ontology/STY/T055,Individual Behavior,,,false,,,http://purl.bioontology.org/ontology/STY/T053
+http://purl.bioontology.org/ontology/STY/T023,"Body Part, Organ, or Organ Component",,,false,,,http://purl.bioontology.org/ontology/STY/T021
+http://purl.bioontology.org/ontology/STY/T096,Group,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T015,Mammal,,,false,,,http://purl.bioontology.org/ontology/STY/T010
+http://purl.bioontology.org/ontology/STY/T032,Organism Attribute,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T043,Cell Function,,,false,,,http://purl.bioontology.org/ontology/STY/T039
+http://purl.bioontology.org/ontology/STY/T086,Nucleotide Sequence,,,false,,,http://purl.bioontology.org/ontology/STY/T085
+http://purl.bioontology.org/ontology/STY/T056,Daily or Recreational Activity,,,false,,,http://purl.bioontology.org/ontology/STY/T052
+http://purl.bioontology.org/ontology/STY/T097,Professional or Occupational Group,,,false,,,http://purl.bioontology.org/ontology/STY/T096
+http://purl.bioontology.org/ontology/STY/T102,Group Attribute,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T033,Finding,,,false,,,http://purl.bioontology.org/ontology/STY/T077
+http://purl.bioontology.org/ontology/STY/T194,Archaeon,,,false,,,http://purl.bioontology.org/ontology/STY/T001
+http://purl.bioontology.org/ontology/STY/T012,Bird,,,false,,,http://purl.bioontology.org/ontology/STY/T010
+http://purl.bioontology.org/ontology/STY/T087,Amino Acid Sequence,,,false,,,http://purl.bioontology.org/ontology/STY/T085
+http://purl.bioontology.org/ontology/STY/T122,Biomedical or Dental Material,,,false,,,http://purl.bioontology.org/ontology/STY/T120
+http://purl.bioontology.org/ontology/STY/T197,Inorganic Chemical,,,false,,,http://purl.bioontology.org/ontology/STY/T104
