@@ -13,6 +13,14 @@ The python package required are as listed below, deepspeed is used for pretraini
 |torch   | 1.9.1+cu111|
 |transformers  | 4.11.3|
 
+For installing fairseq
+
+```bash
+git clone https://github.com/pytorch/fairseq
+cd fairseq
+pip install --editable ./
+```
+
 ## finetuning
 
 For the benchmarks listed in our paper:
@@ -38,6 +46,8 @@ Here is an example, for the same line is both files:
 .target: ['juvenile rheumatoid arthritis is ', ' juvenile rheumatoid arthritis']
 
 For the construction of trie, if using prefix prompt tokens, please set the root of the trie as *16*, which is the token id of * is*; if not set the root as *2*, which is the decoder bos token of BART.
+
+P.S. For evaluations with prefix tokens trick, the per_device_eval_batch_size must be 1. As there will be error for multiple samples in a batch using fairseq generator.
 
 # pretraining
 
